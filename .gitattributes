@@ -1,0 +1,6 @@
+# Preserve exact bytes for data files — sha256 integrity depends on it.
+# Without this, git may normalize CRLF→LF on JSON, causing the manifest
+# sha256 (computed on local pre-commit bytes) to differ from what MBB
+# downloads from raw.githubusercontent.com.
+data/*.json -text
+data/archive/*.json -text
