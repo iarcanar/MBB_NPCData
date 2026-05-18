@@ -3,8 +3,8 @@
   "data_version": "2026.05.15",
   "released_at": "2026-05-15T00:00:00Z",
   "data_url": "https://raw.githubusercontent.com/iarcanar/MBB_NPCData/main/data/npc.json",
-  "data_sha256": "ed94ede33ea95f659c0d5975da1db1529da361d3888127fd3664a717e3d646c8",
-  "data_size_bytes": 95973,
+  "data_sha256": "5d3be528ed6148ddc1f679216cd01b51f74c5d2ad4dedc4c7769f939178e44d7",
+  "data_size_bytes": 98348,
   "stats": {
     "main": 223,
     "npcs": 65,
