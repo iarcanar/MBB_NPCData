@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.05.15",
+  "released_at": "2026-05-15T00:00:00Z",
+  "data_url": "https://raw.githubusercontent.com/iarcanar/MBB_NPCData/main/data/npc.json",
+  "data_sha256": "5d3be528ed6148ddc1f679216cd01b51f74c5d2ad4dedc4c7769f939178e44d7",
+  "data_size_bytes": 98348,
+  "stats": {
+    "main": 223,
+    "npcs": 65,
+    "lore": 140,
+    "character_roles": 206
+  },
+  "min_mbb_version": "1.8.8",
+  "release_notes_th": "เผยแพร่ฐานข้อมูลเริ่มต้น — Phase A cloud sync · MBB v1.8.8+"
+}
